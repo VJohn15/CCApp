@@ -1,0 +1,143 @@
+ {
+    "food":
+      {
+        "vegetables": [
+          "asparagus",
+          "aubergine",
+          "beatroot",
+          "broccoli",
+          "carrot",
+          "garlic",
+          "green bean",
+          "iceberg lettuce",
+          "jerulasem artichoke",
+          "mushrooms",
+          "pea",
+          "pepper",
+          "pumpkin",
+          "redish",
+          "potato",
+          "turnip"
+        ]
+      ,
+        "fruits": [
+          "apple",
+          "apricot",
+          "avocado",
+          "banana",
+          "cherry",
+          "clementine",
+          "date",
+          "grape",
+          "kiwi fruit",
+          "lemon",
+          "mango",
+          "melon",
+          "nectarine",
+          "nut",
+          "olive",
+          "orange",
+          "peanut",
+          "pear",
+          "pineapple",
+          "quince",
+          "raisin",
+          "satsuma",
+          "strawberry",
+          "tomato",
+          "cherry",
+          "grapefruit",
+          "plum",
+          "watermelon"
+        ]
+      ,
+
+        "meat": [
+          "egg",
+          "chicken",
+          "pork",
+          "beef",
+          "duck",
+          "deer",
+          "rabbit",
+          "bacon",
+          "sausages"
+        ]
+      ,
+      "cereals": [
+          "maize",
+          "wheat",
+          "rice",
+          "corn",
+          "corn kernel",
+          "oat",
+          "kernza",
+          "durum"
+        ]
+      ,
+
+        "seafood": [
+          "fish",
+          "molluscs",
+          "crustaceans",
+          "echinoderms",
+          "lobster",
+          "clam",
+          "crab",
+          "octupus",
+          "oyster",
+          "squid"
+        ]
+      ,
+
+        "bakery": [
+          "bread",
+          "pasta",
+          "sweet bread",
+          "bun"
+        ]
+      ,
+
+        "dairy": [
+          "chees",
+          "yogurt",
+          "kefir",
+          "sour cream",
+          "milk"
+        ]
+      ,
+
+        "sweet": [
+          "cake",
+          "ice cream",
+          "gingerbread",
+          "chocolate",
+          "candy",
+          "biscuit",
+          "tart"
+        ]
+    }
+    ,
+    "beverages": {
+      "alcoholic": [
+        "beer",
+        "wine",
+        "cider",
+        "cocktails",
+        "hard alcohol"
+      ],
+      "non-alcoholic": [
+        "water",
+        "tea",
+        "coffee",
+        "soft drink",
+        "juice",
+        "energy drink",
+        "mocktails",
+        "milkshake",
+        "smoothie",
+        "cocoa",
+        "tonic water"
+      ]
+    }
+  }
